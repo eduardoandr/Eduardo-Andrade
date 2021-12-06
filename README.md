@@ -3,7 +3,7 @@
 📚 Atualmente estou me aplicando em aprender programação e buscando minha primeira vaga de trabalho na área, para me desenvolver cada vez mais!!
 
 Recentemente me formei no Bootcamp da Generation, onde mergulhei de cabeça no universo DEV..
-Estou muito motivado e interessado em estar presente na evolução, na busca de um munso melhor para todos!
+Estou muito motivado e interessado em estar presente na evolução, buscando de um mundo melhor para todos!
 <hr>
 
 ### O que venho estudando:
