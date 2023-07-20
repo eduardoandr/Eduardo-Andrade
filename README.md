@@ -1,9 +1,9 @@
 ### Meu nome é: `Eduardo Andrade`.
 
-📚 Atualmente estou me aplicando em aprender programação e buscando minha primeira vaga de trabalho na área, para me desenvolver cada vez mais!!
+📚 Atualmente estou me aplicando nos estudos de programação, para me desenvolver cada vez mais!!
 
 Recentemente me formei no Bootcamp da Generation, onde mergulhei de cabeça no universo DEV..
-Estou muito motivado e interessado em estar presente na evolução, buscando de um mundo melhor para todos!
+Hoje estou no 4º semestre da faculdade de ADS.
 <hr>
 
 ### O que venho estudando:
