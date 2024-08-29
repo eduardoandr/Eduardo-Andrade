@@ -3,7 +3,7 @@
 📚 Atualmente estou me aplicando nos estudos de programação, para me desenvolver cada vez mais!!
 
 Recentemente me formei no Bootcamp da Generation, onde mergulhei de cabeça no universo DEV..
-Hoje estou no 4º semestre da faculdade de ADS.
+Hoje estou formado na faculdade de ADS.
 <hr>
 
 ### O que venho estudando:
